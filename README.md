@@ -17,7 +17,7 @@ I am an AI and Data Science student specializing in Operations, Maintenance, and
 
 ## 💻 Featured Projects
 
-### [Aviation MRO Local AI Assistant (Offline RAG Pipeline)](https://github.com/lakshman199/Aviation-MRO-Local-RAG-Assistant)
+### [Aviation MRO Local AI Assistant (Offline RAG Pipeline)]([https://github.com/lakshman199/Aviation-MRO-Local-RAG-Assistant](https://github.com/lakshman199/Aviation-MRO-Local-AI-Assistant-Offline-RAG-Pipeline-))
 *Python, LangChain, ChromaDB, Hugging Face, Ollama*
 * **Engineered** a secure, 100% offline Retrieval-Augmented Generation (RAG) pipeline to process proprietary FAA aviation manuals, ensuring zero data leakage and strict compliance with aerospace privacy standards.
 * **Implemented** LangChain and Hugging Face embedding models to parse, chunk, and vectorize dense procedural documentation into a local ChromaDB vector database.
