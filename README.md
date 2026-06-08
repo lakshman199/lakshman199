@@ -1,6 +1,6 @@
 # LAKSHMAN EGA
 
-**Atlanta, GA, 30354 | (660) 238-5558 | Ixe73000@ucmo.edu | [linkedin.com/in/lakshman-ega-946b23340/](https://linkedin.com/in/lakshman-ega-946b23340/)**
+**Kansas, KC, 66101 | (660) 238-5558 | Ixe73000@ucmo.edu | [linkedin.com/in/lakshman-ega-946b23340/](https://linkedin.com/in/lakshman-ega-946b23340/)**
 
 ---
 
