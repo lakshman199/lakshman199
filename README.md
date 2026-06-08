@@ -1,46 +1,64 @@
-# Lakshman Ega
-**Master's Student in Data Science & Artificial Intelligence @ UCM** | Expected Fall 2026
-Warrensburg, MO |  [lxe73000@ucmo.edu](mailto:lxe73000@ucmo.edu) 
- [LinkedIn](https://linkedin.com/in/lakshman-ega-946b23340/) |  [GitHub](https://github.com/lakshman199)
+# LAKSHMAN EGA
+
+**Atlanta, GA, 30354 | (660) 238-5558 | Ixe73000@ucmo.edu | [linkedin.com/in/lakshman-ega-946b23340/](https://linkedin.com/in/lakshman-ega-946b23340/)**
 
 ---
 
-##  About Me
-I am an AI and Data Science student specializing in Operations, Maintenance, and Quality Assurance. I focus on building secure, offline Artificial Intelligence systems—particularly Retrieval-Augmented Generation (RAG) pipelines—that bridge the gap between data analytics and real-world operational efficiency. Currently seeking Data Science and AI internship opportunities for Fall 2026 (CPT eligible).
+## EDUCATION
 
-##  Technical Skills
-* **Languages:** Python, SQL, Bash/Shell Scripting
-* **AI & Machine Learning:** Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Vector Embeddings, Prompt Engineering, LangChain, Hugging Face, Scikit-learn, Pandas
-* **Databases & Tools:** ChromaDB (Vector DB), Git/GitHub, Jupyter, VS Code, Ollama
+### **University of Central Missouri** | Warrensburg, MO, USA
+*Master of Science in Data Science and Artificial Intelligence* | **Dec. 2026**
+- **Coursework:** Machine learning, Statistical analysis, and Data visualization, Research in AI/ML, SciKit Learn, R.
 
----
-
-##  Projects
-
-### [Aviation MRO Local AI Assistant (Offline RAG Pipeline)](https://github.com/lakshman199/Aviation-MRO-Local-AI-Assistant-Offline-RAG-Pipeline-)
-*Python, LangChain, ChromaDB, Hugging Face, Ollama*
-* **Engineered** a secure, 100% offline Retrieval-Augmented Generation (RAG) pipeline to process proprietary FAA aviation manuals, ensuring zero data leakage and strict compliance with aerospace privacy standards.
-* **Implemented** LangChain and Hugging Face embedding models to parse, chunk, and vectorize dense procedural documentation into a local ChromaDB vector database.
-* **Designed** a custom semantic search and prompt-injection loop using a local Phi-3 LLM, enabling maintenance mechanics to instantly retrieve accurate, hallucination-free repair procedures without relying on cloud APIs.
-
-*(More projects coming soon!)*
+### **Anna University Chennai** | Tamil Nadu, India
+*Bachelor of Technology in Information Technology* | **Nov. 2023**
+- **Coursework:** Data Science, Data analysis, SQL, Statistics, Mathematics, Cloud Security, AWS, Python, OOPS.
 
 ---
 
-##  Education
-* **University of Central Missouri** — *M.S. in Data Science and Artificial Intelligence* (Expected Fall 2026)
-* **Anna University** — *B.Tech in Information Technology* (Aug 2019 – Nov 2023)
+## TECHNICAL SKILLS
+
+- **AI:** TensorFlow, Py-Torch, Optimization Techniques, LLM, Agentic AI, Multi modal, vector embeddings, RAG.
+- **ML:** Pandas, Supervised learning, KNN, SVM, Generative media modal, Agentic Auto Regression, Navie bayes.
+- **Cloud:** Amazon SageMaker, GCP, Databricks, ML-flow, Microsoft Azure ML, Hybrid cloud Techniques.
+- **Database:** MacAndrew, Chroma, Relational DB, MySQL, PostgreSQL, Predictive Maintenance, FDR.
+- **Tools:** Copilot Kit, AG-UI protocol, Lang Chain, Fast API, JSON, Text splitter, Llama index, Hugging face.
 
 ---
 
-## Domain Expertise & Affiliations
-**American Society for Quality (ASQ) & International Facility Management Association (IFMA)** | *Active Member*
-* Actively participate in advanced analytics, facility operations, and quality assurance conferences.
-* Focused on the intersection of data science, predictive maintenance, and operational efficiency within complex facility and manufacturing environments.
+## PROFESSIONAL WORK EXPERIENCE
+
+### **GSE AI/ML Engineer** | James C. Kirkpatrick Library (JCKL), Warrensburg, MO
+*May 2026 - Present*
+- **Model Integration & Development:** Designing and deploying machine learning models integrated with library digital assets to automate metadata classification, enhancing search optimization and asset discoverability.
+- Tracking, organizing, and maintaining absolute data integrity for a massive facility inventory system managing 2.3M+ physical and digital assets, utilizing Python and MySQL.
 
 ---
 
-## Work Experience
-**Starbucks (University of Central Missouri)** | *Student Employee* (Oct 2024 – Present)
-* Manage high-volume operational workflows during peak campus hours while maintaining strict quality control and safety standards.
-* Collaborate cross-functionally with team members to optimize inventory management and ensure seamless customer experience in a fast-paced environment.
+## PROJECTS
+
+### **Aircraft Maintenance Task Search System**
+- Engineered an end-to-end RAG pipeline, parsing FDR data and manuals into chunks via Lang-Chain and Text Splitter and generating Hugging Face vector embeddings indexed in Chroma.
+- Developed a Fast-API retrieval engine utilizing Llama-Index to match user queries and extract Top K relevant document contexts with high precision.
+- Deployed a Py-Torch-based LLM on Amazon SageMaker to synthesize retrieved data into accurate maintenance responses, tracked via ML-flow and served through an AG-UI protocol interface.
+
+### **Multi-Horizon Energy Demand Forecasting**
+- Developed highly accurate models for short, medium, and long-term energy consumption utilizing Agentic Auto Regression, SVM, and Optimization Techniques built in TensorFlow.
+- Engineered scalable data pipelines on Databricks using Pandas to process and transform large-scale telemetry data, storing structured historical records in PostgreSQL.
+- Deployed the predictive engine on GCP, serving multi-horizon forecasts through a highly responsive Fast-API backend that handled real-time JSON data streams.
+
+### **Network Intrusion Detection System**
+- Developed a high-performance predictive model using Supervised Learning algorithms in TensorFlow and Py-Torch to detect and classify cyber-attacks in real-time.
+- Engineered a data pipeline utilizing Pandas to process millions of network flow records, handling class imbalance through strategic sampling and indexing structured telemetry data in MySQL.
+- Built and deployed an automated RAG architecture using Llama Index and Fast API to retrieve historical attack profiles, enabling an Agentic Auto Regression system to dynamically generate actionable threat insights via Lang Chain.
+
+---
+
+## CERTIFICATIONS
+
+- AI Agents for Image and Video Generation
+- Build Interactive Agents with Generative UI
+- Building and Evaluating Advanced RAG
+- Hugging Face Agents Certification
+- CompTIA AI Essentials
+- Microsoft Azure fundamentals
